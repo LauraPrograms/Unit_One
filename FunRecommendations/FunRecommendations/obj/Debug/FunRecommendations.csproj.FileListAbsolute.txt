@@ -1,0 +1,7 @@
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\bin\Debug\FunRecommendations.exe.config
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\bin\Debug\FunRecommendations.exe
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\bin\Debug\FunRecommendations.pdb
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.csprojAssemblyReference.cache
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.csproj.CoreCompileInputs.cache
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.exe
+E:\GrandCircusVS\Unit1\prework\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.pdb

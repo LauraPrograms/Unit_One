@@ -1,0 +1,7 @@
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\GrandCircusVS\Unit1\prework\prework\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
